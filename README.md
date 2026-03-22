@@ -1,6 +1,7 @@
-# 国服马超的自我介绍
+ # 国服马超的自我介绍
 
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="200" alt="章鱼哥形象">
+<img src="<img width="1476" height="765" alt="屏幕截图 2026-03-22 233946" src="https://github.com/user-attachments/assets/afd062d7-a1bc-493d-b521-adff5151f393" />
+">
 
 大家好，我是**国服马超**，我的身份是*广东300斤把妹王*。以下是我的自我介绍：
 
@@ -41,5 +42,6 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic1.jpg" width="800" alt="截图一">
+<img src="![微信图片_20260322200342_5043_38](https://github.com/user-attachments/assets/af8f8a03-e0f6-4a37-8e27-131ede70cab7)
+">
 
