@@ -42,7 +42,6 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="<img width="1476" height="765" alt="屏幕截图 2026-03-22 233946" src="https://github.com/user-attachments/assets/14a8d33f-ae41-4d25-9671-3e21041faf62" />
+<img width="1476" height="765" alt="屏幕截图 2026-03-22 233946" src="https://github.com/user-attachments/assets/14a8d33f-ae41-4d25-9671-3e21041faf62" />
 
-">
 
